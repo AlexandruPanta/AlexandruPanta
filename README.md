@@ -31,7 +31,7 @@ When I'm not coding, I enjoy:
 
 - Playing the Piano 🎹
 - Playing Basketball 🏀
-- Playing Video Games (indie, Retro) 🎮
+- Playing Video Games (Indie, Rogue-Like, Dead-Cells) 🎮
 
 ## 📫 Contact Me
 
