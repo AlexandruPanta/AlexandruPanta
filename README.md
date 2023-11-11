@@ -10,7 +10,7 @@ I have a strong background in both web and mobile development, with a keen inter
 
 Over my development journey, I've acquired a diverse set of skills:
 
-- **Web Development**: HTML/CSS, JavaScript/TypeScript, Node.js, Express
+- **Web Development**: HTML/CSS, JavaScript/TypeScript, Node.js, Express, React, Next.js
 - **Mobile Development**: React Native
 - **Backend Development**: Python/Flask
 - **Database Management**: MongoDB/MySQL
