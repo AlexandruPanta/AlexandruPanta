@@ -19,11 +19,11 @@ Over my development journey, I've acquired a diverse set of skills:
 
 I've worked on several projects that I'm proud of:
 
-- **Ecna**: A mobile application designed to streamline operations in the medical transportation sector. Check it out
-- **Morning News**: Dedicated to providing users with the latest news updates every morning. Check it out
-- **My Moviz**: An interactive platform for movie enthusiasts, offering latest releases with posters and descriptions. Check it out
-- **Movie Directory**: A comprehensive directory that provides detailed information about a wide range of movies. Check it out
-- **WeatherApp**: Your modern weather app, offering real-time updates. Check it out
+- **Ecna**: A mobile application designed to streamline operations in the medical transportation sector. [Check it out](https://github.com/AlexandruPanta/Ecna)
+- **Morning News**: Dedicated to providing users with the latest news updates every morning. [Check it out](https://github.com/AlexandruPanta/MorningNews)
+- **My Moviz**: An interactive platform for movie enthusiasts, offering latest releases with posters and descriptions. [Check it out](https://github.com/AlexandruPanta/MyMoviz)
+- **Movie Directory**: A comprehensive directory that provides detailed information about a wide range of movies. [Check it out](https://github.com/AlexandruPanta/Movie-Directory)
+- **WeatherApp**: Your modern weather app, offering real-time updates. [Check it out](https://github.com/AlexandruPanta/WeatherApp)
 
 ## 🎈 Hobbies
 
@@ -31,10 +31,10 @@ When I'm not coding, I enjoy:
 
 - Playing the Piano 🎹
 - Playing Basketball 🏀
-- Playing Video Games (Hindi, Retro) 🎮
+- Playing Video Games (indie, Retro) 🎮
 
 ## 📫 Contact Me
 
-If you'd like to get in touch, feel free to say hello through LinkedIn.
+If you'd like to get in touch, feel free to say hello through [LinkedIn](https://www.linkedin.com/in/alexandru-panta-4bb0a2261/).
 
 Thank you for stopping by!
