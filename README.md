@@ -1,10 +1,10 @@
 # 👋 Welcome to AlexandruPanta's GitHub Page
 
-Hello there! I'm Alexandru Panta, a passionate developer based in Paris, Île-de-France, France. I specialize in web and mobile development.
+Hello there! I'm Alexandru Panta, a passionate developer. 
 
 ## 📚 About Me
 
-I have a strong background in both web and mobile development, with a keen interest in creating innovative and efficient solutions.
+I specialize in web and mobile development.
 
 ## 💼 Skills
 
