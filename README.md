@@ -1,16 +1,40 @@
-### Hi there 👋 My name is Alexnadru
+# 👋 Welcome to AlexandruPanta's GitHub Page
 
-<!--
-**AlexandruPanta/AlexandruPanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Alexandru Panta, a passionate developer based in Paris, Île-de-France, France. I specialize in web and mobile development.
 
-Here are some ideas to get you started:
+## 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a strong background in both web and mobile development, with a keen interest in creating innovative and efficient solutions.
+
+## 💼 Skills
+
+Over my development journey, I've acquired a diverse set of skills:
+
+- **Web Development**: HTML/CSS, JavaScript/TypeScript, Node.js, Express
+- **Mobile Development**: React Native
+- **Backend Development**: Python/Flask
+- **Database Management**: MongoDB/MySQL
+
+## 🚀 Projects
+
+I've worked on several projects that I'm proud of:
+
+- **Ecna**: A mobile application designed to streamline operations in the medical transportation sector. Check it out
+- **Morning News**: Dedicated to providing users with the latest news updates every morning. Check it out
+- **My Moviz**: An interactive platform for movie enthusiasts, offering latest releases with posters and descriptions. Check it out
+- **Movie Directory**: A comprehensive directory that provides detailed information about a wide range of movies. Check it out
+- **WeatherApp**: Your modern weather app, offering real-time updates. Check it out
+
+## 🎈 Hobbies
+
+When I'm not coding, I enjoy:
+
+- Playing the Piano 🎹
+- Playing Basketball 🏀
+- Playing Video Games (Hindi, Retro) 🎮
+
+## 📫 Contact Me
+
+If you'd like to get in touch, feel free to say hello through LinkedIn.
+
+Thank you for stopping by!
