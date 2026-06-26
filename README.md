@@ -1,40 +1,48 @@
-# 👋 Welcome to AlexandruPanta's GitHub Page
+# 👋 Hi, I'm Alexandru Panta
 
-Hello there! I'm Alexandru Panta, a passionate developer. 
+### Full-Stack Developer — IoT, Systems & Security
 
-## 📚 About Me
+I design, deploy and secure connected systems **end-to-end** — from the embedded sensor (ESP32, Raspberry Pi) to production infrastructure (OVH, Docker, VPN), data pipelines, cloud backend and mobile apps.
 
-I specialize in web and mobile development.
+Currently a full-stack engineer (apprenticeship) at **Zoe Care — SATT Paris-Saclay**, where my IoT fall-detection system is **deployed in real nursing homes (EHPAD)** with strong reliability and security requirements. Also pursuing an **MSc in Computer Science (AI specialization) at EPITECH**.
 
-## 💼 Skills
+🎯 Open to a full-time role in **systems / IoT**, ideally in **e-health**.
 
-Over my development journey, I've acquired a diverse set of skills:
+---
 
-- **Web Development**: HTML/CSS, JavaScript/TypeScript, React, Next.js
-- **Mobile Development**: React Native
-- **Backend Development**: Python/Flask, Node.js, Express
-- **Database Management**: MongoDB/MySQL
+## 🛠️ Tech I work with
 
-## 🚀 Projects
+| | |
+|---|---|
+| **Systems & Infra** | Docker · Linux · Nginx · systemd · CI/CD · OVH |
+| **IoT & Embedded** | ESP32 · Raspberry Pi · TCP/UDP · OTA updates · ThingsBoard |
+| **Security** | SHA-256 signing · OTA rollback · Row-Level Security · WireGuard (VPN) · SSL/TLS |
+| **Backend** | Node.js · Express · Python · Supabase Edge Functions |
+| **Frontend / Mobile** | TypeScript · React · Next.js · Flutter |
+| **Data** | PostgreSQL · Supabase · Cassandra · BigQuery · Metabase |
 
-I've worked on several projects that I'm proud of:
+---
 
-- **Ecna**: A mobile application designed to streamline operations in the medical transportation sector. [Check it out](https://github.com/AlexandruPanta/Ecna)
-- **Morning News**: Dedicated to providing users with the latest news updates every morning. [Check it out](https://github.com/AlexandruPanta/MorningNews)
-- **My Moviz**: An interactive platform for movie enthusiasts, offering latest releases with posters and descriptions. [Check it out](https://github.com/AlexandruPanta/MyMoviz)
-- **Movie Directory**: A comprehensive directory that provides detailed information about a wide range of movies. [Check it out](https://github.com/AlexandruPanta/Movie-Directory)
-- **WeatherApp**: Your modern weather app, offering real-time updates. [Check it out](https://github.com/AlexandruPanta/WeatherApp)
+## 🚀 Featured work
 
-## 🎈 Hobbies
+🏥 **Zoe Care — IoT fall-detection for nursing homes** *(professional)*
+End-to-end system **deployed in 2 EHPAD**: ESP32 sensors with multi-room detection, real-time Flutter apps (*Zoe Fall*, *Zoe Fit*), secure OTA updates (SHA-256 signing + automatic rollback), Firebase→Supabase migration with RLS, OVH production infra (Nginx, SSL/TLS, systemd), Twilio multichannel alerts and React + Metabase dashboards.
+> *Proprietary — detailed case study on my [portfolio](https://portfolio-bice-nine-45.vercel.app).*
 
-When I'm not coding, I enjoy:
+**Selected public projects**
 
-- Playing the Piano 🎹
-- Playing Basketball 🏀
-- Playing Video Games (Indie, Rogue-Like, Dead-Cells) 🎮
+| Project | Description | Stack |
+|---|---|---|
+| [Ecna](https://github.com/AlexandruPanta/Ecna) | Mobile app for the medical transport sector with real-time tracking | React Native · Node/Express · MongoDB |
+| [MyMoviz](https://github.com/AlexandruPanta/MyMoviz) | Movie discovery platform | Next.js · React · Node/Express · MongoDB |
+| [MorningNews](https://github.com/AlexandruPanta/MorningNews) | Personalized news aggregator (MERN) | React · Node/Express · MongoDB |
 
-## 📫 Contact Me
+---
 
-If you'd like to get in touch, feel free to say hello through [LinkedIn](https://www.linkedin.com/in/alexandru-panta-4bb0a2261/).
+## 📫 Get in touch
 
-Thank you for stopping by!
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bice-nine-45.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandru-panta-4bb0a2261/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandru.panta2003@gmail.com)
+
+<sub>🎹 Piano · 🏀 Basketball · 🎮 Indie & rogue-like games when I'm not coding.</sub>
