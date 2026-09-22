@@ -27,7 +27,7 @@ Currently a full-stack engineer (apprenticeship) at **Zoe Care — SATT Paris-Sa
 
 🏥 **Zoe Care — IoT fall-detection for nursing homes** *(professional)*
 End-to-end system **deployed in 2 EHPAD**: ESP32 sensors with multi-room detection, real-time Flutter apps (*Zoe Fall*, *Zoe Fit*), secure OTA updates (SHA-256 signing + automatic rollback), Firebase→Supabase migration with RLS, OVH production infra (Nginx, SSL/TLS, systemd), Twilio multichannel alerts and React + Metabase dashboards.
-> *Proprietary — detailed case study on my [portfolio](https://portfolio-bice-nine-45.vercel.app).*
+> *Proprietary — detailed case study on my [portfolio](https://alexpanta.dev).*
 
 **Selected public projects**
 
@@ -41,7 +41,7 @@ End-to-end system **deployed in 2 EHPAD**: ESP32 sensors with multi-room detecti
 
 ## 📫 Get in touch
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bice-nine-45.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alexpanta.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandru-panta-4bb0a2261/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandru.panta2003@gmail.com)
 
